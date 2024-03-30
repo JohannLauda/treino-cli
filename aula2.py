@@ -1,0 +1,5 @@
+print("d'agua", 45, end='\n\t')
+print('d\'agua', str("45"))
+print(12, 13, 14, sep=";", end='\n\n')
+print(12, 13, 14, sep="-", end='\n\n\t')
+print("nome", " Johann", sep=":", end='\n\n')

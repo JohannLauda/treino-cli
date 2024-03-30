@@ -1,0 +1,5 @@
+altura = 1.82
+peso = 107
+imc = peso / altura ** 2
+
+print(imc)
